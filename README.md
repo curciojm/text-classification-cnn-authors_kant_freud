@@ -3,6 +3,7 @@
 Updated version: This project has been extended with model serving and web deployment.
 
 Latest version: [ CNN Author Classification — TensorFlow Serving](https://github.com/curciojm/cnn_authorclass_serving)
+
 Live demo: https://cnnauthorclassserving-production.up.railway.app/
 
 This repository contains an earlier version of the project. The current version includes TensorFlow Serving, Docker, a Django web interface, and deployment on Railway.
