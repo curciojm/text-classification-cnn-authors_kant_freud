@@ -1,12 +1,10 @@
 # NLP Author Classification (CNN)
 
-Updated version: This project has been extended with model serving and web deployment.
+**Updated version**: This repository contains an earlier version of the project. The current version includes TensorFlow Serving, Docker, a Django web interface, and deployment on Railway.
 
-Latest version: [ CNN Author Classification — TensorFlow Serving](https://github.com/curciojm/cnn_authorclass_serving)
+**Latest version**: [ CNN Author Classification — TensorFlow Serving](https://github.com/curciojm/cnn_authorclass_serving)
 
-Live demo: https://cnnauthorclassserving-production.up.railway.app/
-
-This repository contains an earlier version of the project. The current version includes TensorFlow Serving, Docker, a Django web interface, and deployment on Railway.
+**Live demo**: https://cnnauthorclassserving-production.up.railway.app/
 
 This project implements a Convolutional Neural Network (CNN) for text classification, distinguishing between writing styles of two authors: Immanuel Kant and Sigmund Freud.
 
